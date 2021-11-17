@@ -1,0 +1,24 @@
+{
+  "name": "Angular-PRJ",
+  "authors": [
+    "vietnguyen270699 <65987730+vietnguyen270699@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.8.2",
+    "angular-route": "^1.8.2",
+    "angular-ui-router": "^1.0.29",
+    "jquery-ui": "^1.12.1",
+    "jquery": "^3.6.0"
+  }
+}
